@@ -1,5 +1,5 @@
 body{
-    height: 1000rem;
+    
 }
 
 * {
@@ -16,6 +16,7 @@ body{
     text-align: end;
     display: flex;
     justify-content: flex-end;
+    padding-top: 20px;
     gap: 10px;
     
     
@@ -77,7 +78,7 @@ body{
   #projects{
       background-color: #45567d;
       padding-top: 70px;
-     height: 1000px;
+     height: 1200px;
     
   }
 
@@ -140,6 +141,8 @@ img{
 .caption{
     text-align: center;
     font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 
 }
 
@@ -147,6 +150,27 @@ img{
     display: flex;
 }
 
+#links{
+    display: flex;
+    margin: auto;
+    margin-bottom: 28px;
+}
 
+.social-media{
+    margin-top: 50px;
+    margin-left: 11%;
+    font-size: x-large;
+}
+
+a:visited{
+    color: white;
+}
+
+.footer-content{
+    color: white;
+    font-size: large;
+    margin-top: 30px;
+    margin-left: 150px;
+}
 
 
