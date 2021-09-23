@@ -106,22 +106,44 @@ body{
 
 img{
     
-    width: 10%;
+    width: 100%;
+    height: 400px;
     object-fit: cover;
     align-content: center;
-
+    padding-top: 10px;
     
 }
 
 .project{
     background-color: #303841;
-    width: fit-content;
+    /* width: fit-content; */
     align-content: center;
-    
+    width: 30%;
     
 }
 
-#projects-div{
+#projects-div-one{
+    display: flex;
+    padding-top: 20px;
+    gap: 30px;
+    margin-left: 4%;
+}
+
+#projects-div-two{
+    display: flex;
+    gap: 30px;
+    margin-left: 4%;
+    padding-top: 30px;
+
+}
+
+.caption{
+    text-align: center;
+    font-size: 20px;
+
+}
+
+#footer{
     display: flex;
 }
 
