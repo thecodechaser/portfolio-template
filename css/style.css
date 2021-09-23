@@ -77,7 +77,8 @@ body{
   #projects{
       background-color: #45567d;
       padding-top: 70px;
-     height: 300px;
+     height: 1000px;
+    
   }
 
   #navbar{
@@ -101,6 +102,27 @@ body{
     font-style: italic;
     font-weight: 100;
     padding-top: 10px;
+}
+
+img{
+    
+    width: 10%;
+    object-fit: cover;
+    align-content: center;
+
+    
+}
+
+.project{
+    background-color: #303841;
+    width: fit-content;
+    align-content: center;
+    
+    
+}
+
+#projects-div{
+    display: flex;
 }
 
 
