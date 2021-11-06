@@ -56,4 +56,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [Licensed](./license.text) licensed.
+This project is [Licensed](./license.txt) licensed.
