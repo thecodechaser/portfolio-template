@@ -14,7 +14,7 @@
 
 - HTML
 - CSS
--JavaScript
+- JavaScript
 
 ## Online live link
 
